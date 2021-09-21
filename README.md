@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BolongZh
 - 👀 I’m interested in mathematics, statistics and data science
-- 🌱 I’m currently learning data structures and algorithms
-- 💞️ I’m looking to collaborate on data science projects
+- 🌱 I’m currently working at Virtual Enterprise System Solutions as a data scientist intern
+- 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me: saturnino at berkeley dot edu
 
 <!---
