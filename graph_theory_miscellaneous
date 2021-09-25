@@ -4,4 +4,4 @@ from the handshaking lemma, a regular graph contains an even number of vertices 
 k-regular graph has nk/2 edges.
 
 2. handshaking lemma
-in every finite graph, there must be an even number of vertices for which {\displaystyle \deg(v)}\deg(v) is an odd number.
+in every finite graph, there must be an even number of vertices for which deg(v) is an odd number.
