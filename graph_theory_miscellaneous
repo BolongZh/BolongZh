@@ -5,3 +5,28 @@ k-regular graph has nk/2 edges.
 
 2. handshaking lemma
 in every finite graph, there must be an even number of vertices for which deg(v) is an odd number.
+
+3. complete graph
+a complete graph is a simple undirected graph in which every pair of distinct vertices is connected by a unique edge.
+
+4. simple graph
+A simple graph, also called a strict graph (Tutte 1998, p. 2), is an unweighted, undirected graph containing no graph loops or multiple edges 
+
+5. bipartite graph
+https://en.wikipedia.org/wiki/Bipartite_graph
+
+6. Hamilton path/cycle
+a Hamiltonian path (or traceable path) is a path in an undirected or directed graph that visits 
+each vertex exactly once. A Hamiltonian cycle (or Hamiltonian circuit) is a Hamiltonian path that is a cycle.
+
+7. matching
+a matching or independent edge set in an undirected graph is a set of edges without common vertices. 
+
+8. maximal vs maximum matching
+maximum matching: the independent edge set has maximum cardinality of all possible matchings
+maximal matching； no other edges can be introduced into the current matching
+
+9. perfect (or complete) matching
+perfect matching: a perfect matching in a graph is a matching that covers every vertex of the graph. 
+More formally, given a graph G = (V, E), a perfect matching in G is a subset M of E, such that every vertex in V is adjacent to exactly one edge in M.
+Bijection between two disjoint edge sets; thus, a perfect matching implies even number of vertices.
