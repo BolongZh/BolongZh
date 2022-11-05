@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BolongZh
-- 👀 I’m interested in mathematics, statistics and data science
-- 🌱 I’m currently working at Virtual Enterprise System Solutions as a data scientist intern
-- 💞️ I’m looking to collaborate on machine learning projects
-- 📫 How to reach me: saturnino at berkeley dot edu
+- 👀 I’m interested in mathematics, statistics and computer science
+- 🌱 I’m currently studying at University of Washington 
+- 💞️ I’m looking to collaborating on software engineering projects
+- 📫 How to reach me: bolongzh at uw dot edu
 
 <!---
 BolongZh/BolongZh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
